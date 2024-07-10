@@ -19,7 +19,7 @@ function Landing() {
         <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="mt-5 text-3xl font-light leading-snug
-             text-black sm:leading-snug lg:text-6xl lg:leading-snug">
+             text-black sm:leading-snug lg:text-5xl lg:leading-snug">
               <span className="p-2">
                 Cultivating <br className="sm:hidden" />
                 Financial Clarity 
@@ -33,7 +33,7 @@ function Landing() {
               Unlock the power of unparalleled expertise in finance and
               administration, meticulously customized and meticulously tailored
               to address the unique needs and challenges encountered at every
-              stage of your company's evolution and growth trajectory,
+              stage of your company evolution and growth trajectory,
               guaranteeing unmatched support, seamless scalability, and enduring
               success.
             </p>
