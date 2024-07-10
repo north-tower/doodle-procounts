@@ -71,7 +71,7 @@ function page() {
   <div className="mx-auto max-w-screen-xl px-4 md:px-8"> 
    
     <div className="mb-10 md:mb-16">
-      <h2 className="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">Most Recent Posts</h2>
+      <h2 className="mb-4 text-center text-2xl font-bold text-blue-500 md:mb-6 lg:text-3xl">Most Recent Posts</h2>
 
       <p className="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg"> Stay updated with our latest insights and tips on effective bookkeeping and financial management. Our recent posts cover a range of topics designed to help you streamline your business finances and make informed decisions.</p>
     </div>

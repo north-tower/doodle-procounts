@@ -8,7 +8,7 @@ function page() {
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
             <div className="grid gap-8 md:grid-cols-2 lg:gap-12">
             <div className="md:pt-8 lg:flex lg:flex-col lg:justify-center">
-                <p className="text-center font-bold text-green-500 md:text-left">Who we are</p>
+                <p className="text-center font-bold text-blue-500 md:text-left">Who we are</p>
 
                 <h1 className="mb-4 text-center text-2xl font-bold text-gray-800 sm:text-3xl md:mb-6 md:text-left">Operational since 1967</h1>
 
@@ -25,7 +25,8 @@ Operational since 1967, our bookkeeping firm has been a trusted partner for busi
                 </div>
             </div>
             <div className="md:col-span-2">
-                <h2 className="mb-2 text-center text-xl font-semibold text-gray-800 sm:text-2xl md:mb-4 md:text-left">About us</h2>
+                <h2 className="mb-2 text-center text-xl font-semibold text-blue-500 sm:text-2xl 
+                md:mb-4 md:text-left">About us</h2>
 
                 <p className="mb-6 text-gray-500 sm:text-lg md:mb-8">
 
@@ -37,7 +38,7 @@ At Procounts Kenya, we are dedicated to providing exceptional bookkeeping servic
         <section className="w-screen bg-white py-10 text-gray-800">
   <div className="container mx-auto w-full max-w-screen-xl">
     <div className="w-full"> 
-      <h2 className="text-center text-3xl font-extrabold">Our Values</h2>
+      <h2 className="text-center text-3xl font-extrabold text-blue-500">Our Values</h2>
       <p className="mx-auto mb-4 max-w-xl py-2 text-center text-gray-600 sm:text-lg">
       At Procounts Kenya our values are the foundation of everything we do. 
       We are committed to delivering excellence, fostering trust, and driving innovation to 

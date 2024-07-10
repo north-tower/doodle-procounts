@@ -7,7 +7,7 @@ function page() {
         <section className="w-screen  py-10 ">
   <div className="container mx-auto w-full max-w-screen-xl">
     <div className="w-full"> 
-      <h2 className="text-center text-3xl font-extrabold">Outsourced bookkeeping services</h2>
+      <h2 className="text-center text-3xl text-blue-500 font-extrabold">Outsourced bookkeeping services</h2>
       <p className="mx-auto mb-4 max-w-xl py-2 text-center text-gray-600 sm:text-lg">How does outsourced bookkeeping work.</p>
     </div>
     <div  className=" mx-auto py-10 grid max-w-screen-xl grid-cols-1 pl-6 pr-4 sm:px-20 lg:grid-cols-3">

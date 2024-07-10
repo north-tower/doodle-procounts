@@ -15,7 +15,7 @@ function Article({id,date, title, description, image}: {id: number, date: string
           <h2 className="text-xl font-bold text-gray-800">
           <Link href={`/post/${id}`}>
 
-            <p className="transition duration-100 hover:text-rose-500 active:text-rose-600">{title}</p>
+            <p className="transition duration-100 hover:text-blue-800 text-blue-500 active:text-rose-600">{title}</p>
           </Link>
           </h2>
 
@@ -23,7 +23,8 @@ function Article({id,date, title, description, image}: {id: number, date: string
 
           <div>
             <Link href={`/post/${id}`}>
-            <p className="font-semibold text-rose-500 transition duration-100 hover:text-rose-600 active:text-rose-700">Read more</p>
+            <p className="font-semibold transition duration-100 hover:text-blue-800 text-blue-500
+             active:text-rose-700">Read more</p>
             
             </Link>
           </div>

@@ -4,7 +4,7 @@ import React from 'react'
 function Cta() {
   return (
     <div>
-        <section className="relative bg-black py-10 text-blue-700 sm:py-16 lg:py-24">
+        <section className="relative  py-10 text-blue-500 sm:py-16 lg:py-24">
   <div className="mx-auto max-w-xl md:max-w-7xl px-4 sm:px-6 md:flex lg:px-8">
     <div className="text- relative my-auto">
       <div className="-left-12 mb-4 inline-flex h-12 w-12 text-blue-700 xl:absolute">
