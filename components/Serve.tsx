@@ -4,13 +4,14 @@ import React from 'react'
 function Serve() {
   return (
     <div >
-        <section className="bg-black py-6 sm:py-8 lg:py-12">
+        <section className="py-6 sm:py-8 lg:py-12">
   <div className="mx-auto max-w-7xl px-4 md:px-8"> 
     
     <div className="mb-10 md:mb-16">
-      <p className="mx-auto max-w-screen-md text-center  text-gray-200 text-xl underline underline-offset-1">Who we serve.</p>
+      <p className="mx-auto max-w-screen-md text-center text-blue-500 text-xl font-bold underline underline-offset-1">Who we serve.</p>
 
-      <h2 className="mb-4 text-center text-xl font-bold text-white md:mb-6 lg:text-xl">Whether youre a small business owner, a freelancer, or part of a 
+      <h2 className="mb-4 text-center text-xl  text-gray-500  md:mb-6 lg:text-xl">
+        Whether you are a small business owner, a freelancer, or part of a 
         larger organization, our solutions are designed to meet your unique financial needs. We proudly serve a diverse range of professionals and businesses, 
         including:</h2>
 
@@ -24,8 +25,8 @@ function Serve() {
         </a> */}
 
         <div className="flex flex-col gap-2">
-        <h2 className="text-xl font-bold text-gray-800">
-            <a href="#" className="transition duration-100 hover:text-rose-500 text-white">Small Business Owners</a>
+        <h2 className="text-xl font-bold text-blue-500">
+            <a href="#" className="transition duration-100 hover:text-blue-800 ">Small Business Owners</a>
           </h2>
           {/* <h2 className="text-xl font-bold text-gray-800">
             <a href="#" className="transition duration-100 hover:text-rose-500 active:text-rose-600">The Pines and the Mountains</a>
@@ -35,8 +36,8 @@ function Serve() {
 
           <div>
             <Link href="/blog">
-            <p  className="font-semibold text-rose-500 transition duration-100 
-            hover:text-rose-600 active:text-rose-700">Read more</p>
+            <p  className="font-semibold text-blue-500 transition duration-100 
+            hover:text-blue-800 active:text-rose-700">Read more</p>
             
             </Link>
           </div>
@@ -51,8 +52,8 @@ function Serve() {
         <div className="flex flex-col gap-2">
          
 
-          <h2 className="text-xl font-bold text-gray-800">
-            <a href="#" className="transition duration-100 hover:text-rose-500 text-white">Freelancers and Consultants</a>
+          <h2 className="text-xl font-bold text-blue-500">
+            <a href="#" className="transition duration-100 hover:text-blue-800 ">Freelancers and Consultants</a>
           </h2>
 
           <p className="text-gray-500 text-sm">Keep your projects profitable with easy expense tracking and invoicing.</p>
