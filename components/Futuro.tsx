@@ -10,7 +10,7 @@ function Futuro() {
   <div className="mx-auto px-4 sm:px-6 lg:px-8">
     <div className="mx-auto max-w-2xl text-center ">
       <p className="text-sm font-medium ">INTRODUCING</p>
-      <h2 className="mt-2 text-3xl font-bold sm:text-4xl xl:text-5xl">Our Finance as a Service Solution</h2>
+      <h2 className="mt-2 text-3xl font-bold text-blue-500 sm:text-4xl xl:text-5xl">Our Finance as a Service Solution</h2>
       <hr className="mx-auto mt-4 h-2 w-32 border-none bg-blue-700" />
     </div>
 
@@ -18,7 +18,7 @@ function Futuro() {
       <div className="">
       
       <div className="p-8 bg-white shadow-md rounded-lg">
-  <h3 className="text-4xl font-bold text-gray-800">Outsourced Bookkeeping Services</h3>
+  <h3 className="text-4xl font-bold text-blue-500">Outsourced Bookkeeping Services</h3>
   <p className="mt-6 text-base text-gray-500">
     <span className="block mb-2"><strong>
 
@@ -41,7 +41,7 @@ Optimize your businesss financial management with our outsourced bookkeeping ser
 
       </div>
       <div className="p-8 bg-white shadow-md rounded-lg">
-  <h3 className="text-4xl font-bold text-gray-800">Financial Forecasting</h3>
+  <h3 className="text-4xl font-bold text-blue-500">Financial Forecasting</h3>
   <p className="mt-6 text-base text-gray-500">
     <span className="block mb-2"><strong>
 
@@ -61,7 +61,7 @@ Harness the power of our specialized financial forecasting services to gain deep
   </Link>
 </div>
 <div className="p-8 bg-white shadow-md rounded-lg">
-  <h3 className="text-4xl font-bold text-gray-800">Integration Needs</h3>
+  <h3 className="text-4xl font-bold text-blue-500">Integration Needs</h3>
   <p className="mt-6 text-base text-gray-500">
     <span className="block mb-2"><strong>Accounting Software:</strong> Seamlessly integrate with popular accounting software like QuickBooks and Xero for streamlined financial management.</span>
     <span className="block mb-2"><strong>Payment Gateways:</strong> Facilitate online payments with integrations to trusted payment gateways such as Stripe and PayPal.</span>

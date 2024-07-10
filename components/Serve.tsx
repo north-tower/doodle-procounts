@@ -60,8 +60,8 @@ function Serve() {
 
           <div>
           <Link href="/blog">
-            <p  className="font-semibold text-rose-500 transition duration-100 
-            hover:text-rose-600 active:text-rose-700">Read more</p>
+            <p  className="font-semibold text-blue-500 transition duration-100 
+            hover:text-blue-800 active:text-rose-700">Read more</p>
             
             </Link>
           </div>
@@ -76,8 +76,8 @@ function Serve() {
         <div className="flex flex-col gap-2">
           {/* <span className="text-sm text-gray-400">April 2, 2022</span> */}
 
-          <h2 className="text-xl font-bold text-gray-800">
-            <a href="#" className="transition duration-100 hover:text-rose-500 text-white">Real Estate Professionals</a>
+          <h2 className="text-xl font-bold text-blue-500">
+            <a href="#" className="transition duration-100 hover:text-blue-800 text-blue-500">Real Estate Professionals</a>
           </h2>
 
           <p className="text-gray-500">Simplify property management and track your investments with ease.
@@ -85,8 +85,8 @@ function Serve() {
 
           <div>
           <Link href="/blog">
-            <p  className="font-semibold text-rose-500 transition duration-100 
-            hover:text-rose-600 active:text-rose-700">Read more</p>
+            <p  className="font-semibold text-blue-500 transition duration-100 
+            hover:text-blue-800 active:text-rose-700">Read more</p>
             
             </Link>
           </div>

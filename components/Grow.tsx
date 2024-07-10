@@ -2,7 +2,7 @@ import React from 'react'
 
 function Grow() {
   return (
-    <div className='bg-black'>
+    <div className=''>
         <section className="relative overflow-hidden  py-12 sm:py-16 lg:py-20">
   <div className="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
     <div className="absolute h-60 w-60 rounded-2xl border-4 border-blue-600"></div>
@@ -11,13 +11,13 @@ function Grow() {
   </div>
   <div className="mx-auto px-4 sm:px-6 lg:px-8">
     <div className="sm:text-center">
-      <h2 className="text-3xl font-semibold leading-7 text-white  sm:text-4xl xl:text-5xl">
+      <h2 className="text-3xl font-semibold leading-7 text-blue-500  sm:text-4xl xl:text-5xl">
         We are <br className="sm:hidden" />
         growing rapidly
       </h2>
-      <p className="text-sm font-medium text-white pt-1">Insighs and Successes</p>
+      <p className="text-sm font-medium text-blue-500 pt-1">Insighs and Successes</p>
    
-      <hr className="mt-1 h-1.5 w-32 border-none bg-white sm:mx-auto sm:mt-8" />
+      <hr className="mt-1 h-1.5 w-32 border-none bg-blue-600 sm:mx-auto sm:mt-8" />
     </div>
 
     <div className="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
