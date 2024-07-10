@@ -38,15 +38,16 @@ function Landing() {
               success.
             </p>
             <Link href={"/contact"} prefetch={false}>
-              <Button variant="secondary" className="mr-4 mt-4">Contact Us</Button>
+              <Button variant="secondary" className="mr-4 mt-4 bg-blue-500">Contact Us</Button>
             </Link>
             <Link href={"/services"} prefetch={false}>
-              <Button variant="secondary">Learn More</Button>
+              <Button variant="secondary" className="mr-4 mt-4 bg-blue-500">Learn More</Button>
             </Link>
           </div>
         </div>
 
-        <div className="mt-16 mb-16 flex flex-col items-center justify-center divide-y divide-gray-500 shadow-lg sm:flex-row sm:divide-x sm:divide-y-0 md:mt-32">
+        <div className="mt-16 mb-16 flex flex-col items-center justify-center 
+        divide-y divide-gray-500  sm:flex-row sm:divide-x sm:divide-y-0 md:mt-32">
           <span className="text-black p-2">Our Clients</span>
           <Carousel2 />
         </div>
