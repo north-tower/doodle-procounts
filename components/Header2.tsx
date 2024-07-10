@@ -111,7 +111,7 @@ function Header2() {
                  className="-m-1.5 p-1.5">
                  <span className="sr-only">Booking.com</span>
                 <img className="h-32 w-32"
-                src="https://i.postimg.cc/tg4c3Bh8/Whats-App-Image-2024-07-10-at-10-11-05.jpg"
+                src="https://i.postimg.cc/2ythVFQp/Whats-App-Image-2024-07-10-at-14-56-36.jpg"
                 alt="" />
                 
                 </Link>
@@ -286,13 +286,13 @@ function Header2() {
             <div className="fixed inset-8 z-10" />
 
             <Dialog.Panel className="fixed inset-y-0 right-4 z-10 w-full
-            overflow-y-auto bg-black px-6 py-6 sm:max-w-sm sm:ring-1
+            overflow-y-auto bg-blue-500 px-6 py-6 sm:max-w-sm sm:ring-1
             sm:ring-gray-900/10">
                 <div className="flex items-center justify-between">
                     <a href="#" className="-m-1.5 p-1.5">
                         <span className="sr-only">Procounts Kenya</span>
-                        <img className="h-12 w-auto" 
-                            src="https://i.postimg.cc/tg4c3Bh8/Whats-App-Image-2024-07-10-at-10-11-05.jpg"
+                        <img className="h-12 w-auto bg-blue-500" 
+                            src="https://i.postimg.cc/2ythVFQp/Whats-App-Image-2024-07-10-at-14-56-36.jpg"
                         alt="" />
                     </a>
                         <button type="button" className="-m-2.5 
@@ -309,8 +309,9 @@ function Header2() {
                             <Disclosure className="-mx-3" as="div" > 
                                     {( {open} )  => (
                                         <>
-                                            <Disclosure.Button className="flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base 
-                                            font-semibold leading-7 text-white hover:bg-blue-800">
+                                            <Disclosure.Button className="flex w-full items-center 
+                                            justify-between rounded-lg py-2 pl-3 pr-3.5 text-base 
+                                            font-semibold leading-7 text-white hover:bg-blue-600">
                                                Services
                                                     <ChevronDownIcon className={cn( open ? "rotate-180" : "", "h-5 w-5 flex-none")} aria-hidden="true" />                                               
                                             </Disclosure.Button>
@@ -320,7 +321,8 @@ function Header2() {
                                                     key={item.name}
                                                     as="a"
                                                     href={item.href}
-                                                    className="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-white hover:bg-blue-800"
+                                                    className="block rounded-lg py-2 pl-6 pr-3 text-sm 
+                                                    font-semibold leading-7 text-white hover:bg-blue-600"
                                                     >
                                                         {item.name}
                                                     </Disclosure.Button>
@@ -330,13 +332,14 @@ function Header2() {
                                     )}
                             </Disclosure>
                             <Link href="/blog"
-                            className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-blue-800">
+                            className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold 
+                            leading-7 text-white hover:bg-blue-600">
                                 Blog</Link> 
                                 <Disclosure className="-mx-3" as="div" > 
                                     {( {open} )  => (
                                         <>
                                             <Disclosure.Button className="flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base 
-                                            font-semibold leading-7 text-white hover:bg-blue-800">
+                                            font-semibold leading-7 text-white hover:bg-blue-600">
                                                About Us
                                                     <ChevronDownIcon className={cn( open ? "rotate-180" : "", "h-5 w-5 flex-none")} aria-hidden="true" />                                               
                                             </Disclosure.Button>
@@ -346,7 +349,8 @@ function Header2() {
                                                     key={item.name}
                                                     as="a"
                                                     href={item.href}
-                                                    className="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-white hover:bg-blue-800"
+                                                    className="block rounded-lg py-2 pl-6 pr-3 text-sm 
+                                                    font-semibold leading-7 text-white hover:bg-blue-600"
                                                     >
                                                         {item.name}
                                                     </Disclosure.Button>
@@ -356,7 +360,8 @@ function Header2() {
                                     )}
                             </Disclosure>
                                 <Link href="/contact"
-                            className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-blue-800">
+                            className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold 
+                            leading-7 text-white hover:bg-blue-600">
                                 Contact Us</Link> 
                             
                            
@@ -365,7 +370,8 @@ function Header2() {
                         </div>
 
                         <div className="py-6">
-                            <Link href="#" className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-white hover:bg-blue-800">
+                            <Link href="#" className="-mx-3 block rounded-lg px-3 py-2.5 text-base
+                             font-semibold leading-7 text-blue-500 hover:bg-blue-800">
                                 Log in
                             </Link>
                         </div>

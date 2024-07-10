@@ -17,7 +17,7 @@ function page() {
         <div className="">
   <div className="bg-white">
     <section className="mx-auto grid max-w-screen-xl gap-y-4 gap-x-20 px-4 py-10 sm:px-10 lg:grid-cols-10">
-      <h2 className="w-full text-3xl font-bold text-blue-700 sm:text-4xl lg:col-span-3">Terms of service</h2>
+      <h2 className="w-full text-3xl font-bold text-blue-500 sm:text-4xl lg:col-span-3">Terms of service</h2>
 
       <div className="mr-20 text-gray-600 lg:col-span-5">
         <p className="mb-1 font-medium">Summary</p>
@@ -37,7 +37,7 @@ By utilizing our companys bookkeeping services, you agree to comply with our ter
   </div>
   <div className="bg-gray-100">
     <section className="mx-auto grid max-w-screen-xl gap-y-4 gap-x-20 border-b border-gray-300 px-4 py-10 sm:px-10 lg:grid-cols-10">
-      <h2 className="w-full text-3xl font-bold text-gray-800 sm:text-4xl lg:col-span-3">Privacy Policy</h2>
+      <h2 className="w-full text-3xl font-bold text-blue-500 sm:text-4xl lg:col-span-3">Privacy Policy</h2>
 
       <div className="mr-20 text-gray-600 lg:col-span-5">
         <p className="mb-1 font-medium">Summary</p>
@@ -69,7 +69,7 @@ encourage you to review this policy regularly.</p>
   </div>
   <div className="bg-gray-100">
     <section className="mx-auto grid max-w-screen-xl gap-y-4 gap-x-20 px-4 py-10 sm:px-10 lg:grid-cols-10">
-      <h2 className="w-full text-3xl font-bold text-gray-800 sm:text-4xl lg:col-span-3">User Conduct</h2>
+      <h2 className="w-full text-3xl font-bold text-blue-500 sm:text-4xl lg:col-span-3">User Conduct</h2>
 
       <div className="mr-20 text-gray-600 lg:col-span-5">
         <p className="mb-1 font-medium">Summary</p>
@@ -90,7 +90,7 @@ This includes providing accurate and complete information for our bookkeeping pr
   </div>
 </div>
 <section className="relative mx-auto max-w-screen-lg bg-white p-4 text-gray-800">
-  <h1 className="mb-20 text-center text-4xl font-bold">Experience the Future of Bookkeeping</h1>
+  <h1 className="mb-20 text-center text-4xl text-blue-500 font-bold">Experience the Future of Bookkeeping</h1>
   <div className="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:items-center lg:gap-12">
     <div className="md:px-20 lg:col-start-2 lg:pr-0">
       <ul className="mt-5">

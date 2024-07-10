@@ -52,7 +52,7 @@ function page() {
 </div>
 
 <section className="">
-<section className="bg-blue-900">
+<section className="bg-blue-500">
   <div className="mx-auto grid max-w-lg gap-x-8 gap-y-12 px-4 py-32 md:max-w-screen-xl 
   md:grid-cols-2 md:px-8 lg:grid-cols-3">
     <div>
@@ -65,7 +65,7 @@ function page() {
     </div>
 
     <div className="border-white/40 relative border-4 px-4 pt-14 pb-8">
-      <div className="absolute -top-8 left-8 bg-blue-900 px-4 text-white">
+      <div className="absolute -top-8 left-8 bg-blue-500 px-4 text-white">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="h-16 w-16">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0021 18V6a2.25 2.25 0 00-2.25-2.25H5.25A2.25 2.25 0 003 6v12a2.25 2.25 0 002.25 2.25z" />
         </svg>
@@ -74,7 +74,7 @@ function page() {
       <p className="text-blue-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vero ullam placeat molestiae aspernatur quasi, facere, aliquam ea quia maiores ipsum soluta cumque voluptates.</p>
     </div>
     <div className="border-white/40 relative border-4 px-4 pt-14 pb-8">
-      <div className="absolute -top-8 left-8 bg-blue-900 px-4 text-white">
+      <div className="absolute -top-8 left-8 bg-blue-500 px-4 text-white">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="h-16 w-16">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0021 18V6a2.25 2.25 0 00-2.25-2.25H5.25A2.25 2.25 0 003 6v12a2.25 2.25 0 002.25 2.25z" />
         </svg>
@@ -83,7 +83,7 @@ function page() {
       <p className="text-blue-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vero ullam placeat molestiae aspernatur quasi, facere, aliquam ea quia maiores ipsum soluta cumque voluptates.</p>
     </div>
     <div className="border-white/40 relative border-4 px-4 pt-14 pb-8">
-      <div className="absolute -top-8 left-8 bg-blue-900 px-4 text-white">
+      <div className="absolute -top-8 left-8 bg-blue-500 px-4 text-white">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="h-16 w-16">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0021 18V6a2.25 2.25 0 00-2.25-2.25H5.25A2.25 2.25 0 003 6v12a2.25 2.25 0 002.25 2.25z" />
         </svg>
@@ -92,7 +92,7 @@ function page() {
       <p className="text-blue-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vero ullam placeat molestiae aspernatur quasi, facere, aliquam ea quia maiores ipsum soluta cumque voluptates.</p>
     </div>
     <div className="border-white/40 relative border-4 px-4 pt-14 pb-8">
-      <div className="absolute -top-8 left-8 bg-blue-900 px-4 text-white">
+      <div className="absolute -top-8 left-8 bg-blue-500 px-4 text-white">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="h-16 w-16">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0021 18V6a2.25 2.25 0 00-2.25-2.25H5.25A2.25 2.25 0 003 6v12a2.25 2.25 0 002.25 2.25z" />
         </svg>
