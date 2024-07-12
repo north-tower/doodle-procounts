@@ -292,7 +292,7 @@ function Header2() {
                     <a href="#" className="-m-1.5 p-1.5">
                         <span className="sr-only">Procounts Kenya</span>
                         <img className="h-12 w-auto bg-blue-500" 
-                            src="https://i.postimg.cc/2ythVFQp/Whats-App-Image-2024-07-10-at-14-56-36.jpg"
+                            src="https://i.postimg.cc/KjpHL5Cm/Whats-App-Image-2024-07-11-at-16-50-51-1.jpg"
                         alt="" />
                     </a>
                         <button type="button" className="-m-2.5 
