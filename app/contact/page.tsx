@@ -21,7 +21,7 @@ function page({}: Props) {
   return (
     <>
     <MainMap />
-    <div className="">
+    <div className="m-5">
         <div className="font-sans text-base  sm:px-10 ">
             <div className="text-base ">
                 <div className="mx-auto w-full sm:max-w-screen-sm md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl">
