@@ -3,13 +3,13 @@ import Map, { Marker } from 'react-map-gl';
 
 function MainMap() {
   const [viewState, setViewState] = React.useState({
-    longitude: 36.823869,
-    latitude: -1.270313,
+    longitude: 36.969859,
+    latitude: -1.164050,
     zoom: 11,
   });
-
-  const markerLongitude = 36.823869
-  const markerLatitude = -1.270313;
+  
+  const markerLongitude = 36.969859
+  const markerLatitude = -1.164050;
   
   return (
       <Map
