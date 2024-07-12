@@ -4,13 +4,13 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 
 function MainMap() {
   const [viewState, setViewState] = React.useState({
-    longitude: 36.969859,
-    latitude: -1.164050,
-    zoom: 11,
+    longitude: 36.96,
+    latitude: -1.16,
+    zoom: 12,
   });
   
-  const markerLongitude = 36.969859
-  const markerLatitude = -1.164050;
+  const markerLongitude = 36.96;
+  const markerLatitude = -1.16;
   
   return (
       <Map
@@ -18,7 +18,7 @@ function MainMap() {
         {...viewState}
         onMove={(evt) => setViewState(evt.viewState)}
         mapStyle="mapbox://styles/mapbox/streets-v9"
-        style={{ width: 1340, height: 400 }}
+        style={{ width: 1300, height: 400 }}
       >
         <Marker longitude={markerLongitude} latitude={markerLatitude}>
           <p

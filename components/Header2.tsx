@@ -299,7 +299,7 @@ function Header2() {
                         rounded-md p-2.5 text-white"
                         onClick={() => setMobileMenuOpen(false)} >
                             <span className="sr-only">Close Menu</span>
-                            <XMarkIcon className="h-6 w-6" aria-hidden="true" />
+                            <XMarkIcon className="h-6 w-6 text-white" aria-hidden="true" />
 
                         </button>
                 </div> 
