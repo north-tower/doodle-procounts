@@ -2,7 +2,6 @@
 
 import Form from '@/components/Form';
 import MainMap from '@/components/MainMap';
-
 import React, { ChangeEvent, FormEvent, useState } from 'react'
 
 
@@ -21,15 +20,7 @@ function page({}: Props) {
     
   return (
     <>
-     <div className='flex'>
-
-<section className="flex-1">
-    <div className="w-full h-1/2">
-      <MainMap   />
-    
-    </div>
-    </section>
-</div>
+    <MainMap />
     <div className="">
         <div className="font-sans text-base  sm:px-10 ">
             <div className="text-base ">
@@ -49,7 +40,6 @@ function page({}: Props) {
 
 
     </div>
-   
     
     </>
   )   
