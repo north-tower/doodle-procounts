@@ -111,7 +111,7 @@ function Header2() {
                  className="-m-1.5 p-1.5">
                  <span className="sr-only">Booking.com</span>
                 <img className="h-32 w-32"
-                src="https://i.postimg.cc/2ythVFQp/Whats-App-Image-2024-07-10-at-14-56-36.jpg"
+                src="https://i.postimg.cc/KjpHL5Cm/Whats-App-Image-2024-07-11-at-16-50-51-1.jpg"
                 alt="" />
                 
                 </Link>
